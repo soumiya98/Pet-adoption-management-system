@@ -6,3 +6,6 @@ This system has been developed to carry out the processes easily and quickly whi
 The project analyzes the system requirements and then comes up with the requirements specifications. It studies other related systems and then come up with system specifications. The system is then designed in accordance with specifications to satisfy the requirements. The system design is then implemented with MYSQL, JSP and HTML. The system is designed as an interactive and content management system. 
 The content management system deals with data entry, validation confirm and updating whiles the interactive system deals with system interaction with users.
 Thus, above features of this project will save transaction time and therefore increases the efficiency of the system and helps to save a life of an animal with simply a click of button and also makes process easy for users who has the heart to save lives, thereby increasing the number of  adoptions.
+
+
+My LinkedIn profile: linkedin.com/in/soumiya-rao-396857184
